@@ -1,2 +1,3 @@
-﻿  5.4.cpp
-  5.4.vcxproj -> C:\Users\Dell\source\repos\5.4\x64\Debug\5.4.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (5.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab5.4.cpp
+  5.4.vcxproj -> C:\Users\Dell\source\repos\lab5.4\x64\Debug\lab5.4.exe
