@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\5.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|solutionrelative:5.4\\lab5\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp",
+              "RelativeDocumentMoniker": "5.4\\lab5\\5.4.cpp",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp",
+              "RelativeToolTip": "5.4\\lab5\\5.4.cpp",
+              "ViewState": "AgIAACwAAAAgMzMzMzMTwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T09:17:15.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
