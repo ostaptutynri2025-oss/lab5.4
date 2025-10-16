@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\5.4\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\lab5.4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|solutionrelative:5.4\\lab5\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|C:\\Users\\Dell\\source\\repos\\lab5.4\\5.4\\lab5\\lab5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{529AA534-47FB-42E2-87EE-814055164F6D}|5.4\\5.4.vcxproj|solutionrelative:5.4\\lab5\\lab5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Dell\\source\\repos\\lab5.4\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 215,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\lab5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\lab5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAABAMTMzMzMbwBkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T09:30:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "5.4.cpp",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp",
-              "RelativeDocumentMoniker": "5.4\\lab5\\5.4.cpp",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\5.4\\5.4\\lab5\\5.4.cpp",
-              "RelativeToolTip": "5.4\\lab5\\5.4.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Title": "lab5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\lab5.4\\5.4\\lab5\\lab5.4.cpp",
+              "RelativeDocumentMoniker": "5.4\\lab5\\lab5.4.cpp",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\lab5.4\\5.4\\lab5\\lab5.4.cpp",
+              "RelativeToolTip": "5.4\\lab5\\lab5.4.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAABQPUAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-16T09:17:15.95Z",
               "EditorCaption": ""
